@@ -1,0 +1,28 @@
+{
+  "name": "@precooked/react-color-cell",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/precookedcode/react-color-cell.git"
+  },
+  "bugs": {
+    "url": "https://github.com/precookedcode/react-color-cell/issues"
+  },
+  "homepage": "https://github.com/precookedcode/react-color-cell#readme",
+  "author": "Roberto Carraro",
+  "license": "ISC",
+  "peerDependencies": {
+    "react": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.12",
+    "typescript": "^5.6.3"
+  }
+}
